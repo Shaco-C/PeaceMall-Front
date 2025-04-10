@@ -10,7 +10,7 @@
 
 ## 登陆
 
-![](X:\MarkDown\Pics\login.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_imgs/login.gif)
 
 ## 商品展示部分
 
@@ -18,7 +18,7 @@
 
 每一个商品都是数据库中有的字段，因为个人原因懒得去爬取数据，就简显示
 
-![](X:\MarkDown\Pics\首页信息展示.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_imgs/%E9%A6%96%E9%A1%B5%E4%BF%A1%E6%81%AF%E5%B1%95%E7%A4%BA.gif)
 
 ### 点击分类标签，对应商品的显示
 
