@@ -6,11 +6,11 @@
 
 ## 注册
 
-![register](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_imgs/register.gif)
+![register](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/register.gif)
 
 ## 登陆
 
-![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_imgs/login.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/login.gif)
 
 ## 商品展示部分
 
@@ -18,95 +18,95 @@
 
 每一个商品都是数据库中有的字段，因为个人原因懒得去爬取数据，就简显示
 
-![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_imgs/%E9%A6%96%E9%A1%B5%E4%BF%A1%E6%81%AF%E5%B1%95%E7%A4%BA.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/mainpageInfo.gif)
 
 ### 点击分类标签，对应商品的显示
 
-![](X:\MarkDown\Pics\分类界面的显示.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/categoryageshow.gif)
 
 ### 点击商品卡片-商品详细信息界面
 
-![](X:\MarkDown\Pics\商品详细信息.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/productDetails.gif)
 
 ### 点击进入店铺-商家页面
 
-![](X:\MarkDown\Pics\商店页面.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/shoppageinfo.gif)
 
 ### 首页商品的搜索功能
 
-![](X:\MarkDown\Pics\搜索功能.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/search.gif)
 
-![](X:\MarkDown\Pics\搜索功能02.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/search02.gif)
 
 ## 个人中心界面
 
 ### 修改个人信息
 
-![](X:\MarkDown\Pics\个人中心_1.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/userinfo_1.gif)
 
 ### 修改邮箱-手机号-密码功能大同小异，这里只展示修改邮箱
 
-![](X:\MarkDown\Pics\修改邮箱.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/modifyEmail.gif)
 ## 用户地址信息
 ### 增加
 
-![](X:\MarkDown\Pics\地址.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/address.gif)
 
 ### 其他操作
 
-![](X:\MarkDown\Pics\地址1.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/address1.gif)
 
 ## 钱包部分
-![](X:\MarkDown\Pics\钱包.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/wallet.gif)
 
 ## 申请成为商家部分
 
-![](X:\MarkDown\Pics\商家申请.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/merchantapplication.gif)
 
 ## 购物车
 ### 添加商品到购物车
 
-![](X:\MarkDown\Pics\购物车_添加.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/cart_add.gif)
 
 ### 购物车中的一些操作
 
 这里的test其实是2个不同的商家。
 
-![](X:\MarkDown\Pics\购物车_操作1.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/cart_operation1.gif)
 
 ## 收藏商品
- ![](X:\MarkDown\Pics\收藏.gif)
+ ![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/favorite.gif)
 ## 订单
 
 ### 从商品中直接下订单-注意商品库存也会随之变化
 
-![](X:\MarkDown\Pics\订单.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/order.gif)
 
 ### 从购物车中下订单
 
-![](X:\MarkDown\Pics\订单1.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/order1.gif)
 
 ### 订单详情界面
 
-![](X:\MarkDown\Pics\订单详情.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/orderdetails.gif)
 
 #### 取消订单
 
-![](X:\MarkDown\Pics\订单详情1.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/orderdetials1.gif)
 
 #### 付款
 
-![](X:\MarkDown\Pics\订单详情_pay.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/orderdetails_pay.gif)
 
 #### 申请退货
 
 需要先收货才可以退货，但是在商家没有发货之前，可以进行取消订单。
 
-![](X:\MarkDown\Pics\订单详情_2.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/orderdetails_2.gif)
 
-![](X:\MarkDown\Pics\订单详情_3.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/orderdetails_3.gif)
 
 ## 所有页面的一起展示
 
-![](X:\MarkDown\Pics\end.gif)
+![](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_images/end.gif)
 
