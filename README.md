@@ -6,7 +6,7 @@
 
 ## 注册
 
-![register](X:\MarkDown\Pics\register.gif)
+![register](https://github.com/Shaco-C/PeaceMall-Front/blob/main/readme_imgs/register.gif)
 
 ## 登陆
 
